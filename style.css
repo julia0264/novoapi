@@ -1,0 +1,17 @@
+body{
+    background-color: cornflowerblue;
+}
+*{
+    text-align: center;
+}
+table{
+
+  width: 100%;
+  margin-bottom : .5em;
+  table-layout:auto;
+  text-align: center;
+}
+button{
+    background-color: rgb(137, 192, 137);
+    width: 200px;
+}
